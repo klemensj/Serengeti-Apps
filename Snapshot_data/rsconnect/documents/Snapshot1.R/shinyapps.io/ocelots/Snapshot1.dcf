@@ -1,0 +1,12 @@
+name: Snapshot1
+title: Snapshot1
+username:
+account: ocelots
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3136953
+bundleId: 3805913
+url: https://ocelots.shinyapps.io/Snapshot1/
+when: 1604207391.76139
+asMultiple: FALSE
+asStatic: FALSE

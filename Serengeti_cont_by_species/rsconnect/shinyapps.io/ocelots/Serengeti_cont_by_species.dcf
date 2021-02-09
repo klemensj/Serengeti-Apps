@@ -1,0 +1,12 @@
+name: Serengeti_cont_by_species
+title: Serengeti_cont_by_species
+username:
+account: ocelots
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3331190
+bundleId: 4080076
+url: https://ocelots.shinyapps.io/Serengeti_cont_by_species/
+when: 1610325904.88793
+asMultiple: FALSE
+asStatic: FALSE

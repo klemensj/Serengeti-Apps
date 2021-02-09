@@ -1,0 +1,12 @@
+name: Wildebeest1
+title: Wildebeest1
+username:
+account: ocelots
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3458932
+bundleId: 4079344
+url: https://ocelots.shinyapps.io/Wildebeest1/
+when: 1610304555.02072
+asMultiple: FALSE
+asStatic: FALSE

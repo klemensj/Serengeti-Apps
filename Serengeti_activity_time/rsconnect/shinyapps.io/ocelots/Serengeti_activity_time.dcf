@@ -1,0 +1,12 @@
+name: Serengeti_activity_time
+title: Serengeti_activity_time
+username:
+account: ocelots
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3331416
+bundleId: 3927890
+url: https://ocelots.shinyapps.io/Serengeti_activity_time/
+when: 1606834742.71783
+asMultiple: FALSE
+asStatic: FALSE

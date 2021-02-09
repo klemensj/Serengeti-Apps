@@ -1,0 +1,12 @@
+name: Serengeti_species_pairs
+title: Serengeti_species_pairs
+username:
+account: ocelots
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3460004
+bundleId: 4080927
+url: https://ocelots.shinyapps.io/Serengeti_species_pairs/
+when: 1610347496.36705
+asMultiple: FALSE
+asStatic: FALSE
